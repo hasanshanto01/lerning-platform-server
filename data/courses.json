@@ -1,0 +1,92 @@
+[
+    {
+        "id": "c1",
+        "title": "Full Stack Web Development with MERN Stack Project",
+        "img_url": "https://pattemdigital.com/production/wp-content/uploads/2020/03/PD-Leverage-MERN-Stack-for-building-efficient-websites-Thumbnail.png",
+        "details": {
+            "description": "This course is perfect for anyone looking to learn web development. It covers all the latest technologies and frameworks that you'll need to know to build today's modern websites and web applications. We'll start by learning HTML, CSS, and JavaScript, the fundamental technologies of the web. Then we'll move on to more advanced topics like React, Node js, and MongoDB. By the end of the course, you'll  build  different projects ranging from a simple website to a fully-fledged web app. This course is designed for you to build your own business or a new career, and become an expert web developer. You don't need any previous experience in website development or programming as this course is designed in such a way that it can be done even if you have no coding or web development background. It’s all explained in an easy to understand way with step by step instructions, video tutorials, and live examples. This is a hands-on course, where you get immediate access to every lesson,So whether you're a complete beginner or an experienced web developer looking to stay up-to-date with the latest changes, this course is for you. Enrol now and let's get started!",
+            "course_for": "No knowledge in programming is required. Anyone interested to become a web developer. Beginner or advance programmers."
+        },
+        "instructor": {
+            "name": "Jimmy Dane",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "rating": 4.5,
+        "fee": 17
+    },
+    {
+        "id": "c2",
+        "title": "Web Development for beginners: HTML | CSS | JavaScript | PHP",
+        "img_url": "https://www.web-development-institute.com/wp-content/uploads/2019/07/Role-of-HTML-JavaScript-and-PHP-in-Web-Development.jpg",
+        "details": {
+            "description": "Our object is to start from zero knowledge and have you create any website you like to in the end of this course. In this course, you will learn must have web development technologies: HTML, CSS, Responsive design tips, Bootstrap, Javascript, Jquery, PHP, MySQL Database. 5 Real Life Web Projects : News Website, Portfolio Website, Blog Website,Social Media Website, Browser based memory cards game.",
+            "course_for": "Beginner web designers. Intermediate web designers. Any one who want to learn web application development."
+        },
+        "instructor": {
+            "name": "Christian Ben",
+            "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        "rating": 4.3,
+        "fee": 15
+    },
+    {
+        "id": "c3",
+        "title": "iOS & Swift - The Complete iOS App Development",
+        "img_url": "https://www.rlogical.com/wp-content/uploads/2019/05/iosapp.png",
+        "details": {
+            "description": "Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience. I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as an iOS app developer. The course includes 55+ hours of HD video tutorials and builds your programming knowledge while making real world apps. e.g. Pokemon Go, Whatsapp, QuizUp and Yahoo Weather. The curriculum has been completely revamped for iOS 13 and Xcode 11. Including comprehensive modules on Apple's latest technology - SwiftUI iOS, iPadOS and macOS app interface design, ARKit for making Augmented Reality apps as well as CoreML & CreateML for making intelligent apps with Machine Learning. You'll be building 3D augmented reality apps that look like Pokemon Go and Harry Potter's magical newspapers! By the end of this course, you will be fluently programming in Swift 5.1 and be ready to make your own apps or start a freelancing job as an iOS 13 developer. You'll also have a portfolio of over 25 apps that you can show off to any potential employer.",
+            "course_for": "From Beginner to Advance iOS App Developer, Fully Updated Module Dedicated to Swift & SwiftUI."
+        },
+        "instructor": {
+            "name": "Jennifer Wood",
+            "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+        },
+        "rating": 4.5,
+        "fee": 19
+    },
+    {
+        "id": "c4",
+        "title": "Android App Development with Kotlin | Beginner to Advanced",
+        "img_url": "https://i0.wp.com/itphobia.com/wp-content/uploads/2021/09/Android-App-Development-Tools-1.jpg?fit=730%2C380&ssl=1",
+        "details": {
+            "description": "In this course, you will discover the power of Android app development, and obtain the skills to dramatically increase your career prospects as a software developer. You’ll also have a head start over other developers using obsolete tools and earlier versions of Android. Android is continually being updated and you'll learn how to target but users of current versions of Android and older versions as well.With this course, you get the best of both worlds. You’re taught to write code for Android that works with the current version and older versions of Android by using the AppCompat library. That way, the apps you build will work with more versions of Android, giving you access to a wider audience of users. Starting is easy because no previous programming experience is needed. NONE! If you do have it, great. Or maybe you just want to brush up on your Android development skills, and that’s fantastic too. The course is presented using a combination of video, slides and diagrams, all designed to teach you everything you need to know.",
+            "course_for": "This course is perfect for absolute beginners with no previous programming experience.However, if you’re already an expert Android Kotlin programmer with knowledge of all the latest updates, then this course is not for you. Existing Android Java Programmers who want to transition to Kotlin for Android app development."
+        },
+        "instructor": {
+            "name": "Karim Zidane",
+            "image": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        "rating": 4.5,
+        "fee": 16
+    },
+    {
+        "id": "c5",
+        "title": "SEO for Beginners: Rank in Google with SEO",
+        "img_url": "https://thefridgeagency.com/wp-content/uploads/sites/3/2017/06/5_14_SEO_HightLevelPerspective_1000px.jpg",
+        "details": {
+            "description": "This course is all about Google's search algorithms and SEO factors that search engines use to rank web pages. From keyword research to link building and from technical SEO to website speed optimization, this course covers all aspects of SEO and beyond. his entire SEO 2022 course is based on a practical result-oriented approach. I have created a website from scratch during this course, and I will show you how to find the best SEO niche for your website/blog and then how to find the best low competition and low difficulty keywords for the same website/blog. We will apply the SEO techniques on our website in real-time and will rank that website on the 1st page of Google. This course is specially designed for Webmasters, Bloggers, Business owners, Search Engine Optimization Beginners / Experts, and Website owners who want to rank #1 in Google. This course is not just for WordPress, but I have tried my best to make it workable for any type of websites such as an e-commerce website, HTML website, and custom websites.",
+            "course_for": "Bloggers & Webmasters, Internet Marketers, Business Owners, Website Owners, Content Writers, SEO & Marketing Students."
+        },
+        "instructor": {
+            "name": "Leroy Thomas",
+            "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        },
+        "rating": 4.3,
+        "fee": 15
+    },
+    {
+        "id": "c6",
+        "title": "Become a Professional Graphic Designer",
+        "img_url": "https://www.totaljobs.com/advice/wp-content/uploads/graphic-designer-job-description-1024x576.jpg",
+        "details": {
+            "description": "This course is aimed at aspiring graphic designers, web designers and digital artists who wish to develop a skill set needed to become a professional graphic designer. Suitable for both complete beginners and those who already have some knowledge of the industry; this course will prepare you for a career as a graphics designer through familiarising you with the concepts, principles and – most importantly – the software you'll need to know. You'll learn everything from working with layers and selections in Photoshop, to formatting text and menus in Dreamweaver, to using pathfinders and special effects in Illustrator. As well as equipping you with a valuable skill set, you will also learn how to get your foot in the door of the graphic design world, from how to land your first job, to finding continued inspiration, to the ins and outs of joining the graphics design community. On completion of this course, you will have the strong foundation needed to get started in the world of graphic design, along with the skills needed to start working professionally straight away.",
+            "course_for": "Aspiring graphic designers, Web designers, Artists."
+        },
+        "instructor": {
+            "name": "Katy Parker",
+            "image": "https://images.unsplash.com/photo-1573496358961-3c82861ab8f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
+        },
+        "rating": 4.5,
+        "fee": 17
+    }
+]
