@@ -1,6 +1,6 @@
 [
     {
-        "id": "c1",
+        "id": 1,
         "title": "Full Stack Web Development with MERN Stack Project",
         "img_url": "https://pattemdigital.com/production/wp-content/uploads/2020/03/PD-Leverage-MERN-Stack-for-building-efficient-websites-Thumbnail.png",
         "details": {
@@ -15,8 +15,8 @@
         "fee": 17
     },
     {
-        "id": "c2",
-        "title": "Web Development for beginners: HTML | CSS | JavaScript | PHP",
+        "id": 2,
+        "title": "Web Development using PHP and MySQL",
         "img_url": "https://www.web-development-institute.com/wp-content/uploads/2019/07/Role-of-HTML-JavaScript-and-PHP-in-Web-Development.jpg",
         "details": {
             "description": "Our object is to start from zero knowledge and have you create any website you like to in the end of this course. In this course, you will learn must have web development technologies: HTML, CSS, Responsive design tips, Bootstrap, Javascript, Jquery, PHP, MySQL Database. 5 Real Life Web Projects : News Website, Portfolio Website, Blog Website,Social Media Website, Browser based memory cards game.",
@@ -30,9 +30,9 @@
         "fee": 15
     },
     {
-        "id": "c3",
+        "id": 3,
         "title": "iOS & Swift - The Complete iOS App Development",
-        "img_url": "https://www.rlogical.com/wp-content/uploads/2019/05/iosapp.png",
+        "img_url": "https://appinventiv.com/wp-content/uploads/sites/1/2016/06/How-iOS-and-Swift-Is-Ruling-Mobile-App-Development-World-1.png",
         "details": {
             "description": "Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience. I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as an iOS app developer. The course includes 55+ hours of HD video tutorials and builds your programming knowledge while making real world apps. e.g. Pokemon Go, Whatsapp, QuizUp and Yahoo Weather. The curriculum has been completely revamped for iOS 13 and Xcode 11. Including comprehensive modules on Apple's latest technology - SwiftUI iOS, iPadOS and macOS app interface design, ARKit for making Augmented Reality apps as well as CoreML & CreateML for making intelligent apps with Machine Learning. You'll be building 3D augmented reality apps that look like Pokemon Go and Harry Potter's magical newspapers! By the end of this course, you will be fluently programming in Swift 5.1 and be ready to make your own apps or start a freelancing job as an iOS 13 developer. You'll also have a portfolio of over 25 apps that you can show off to any potential employer.",
             "course_for": "From Beginner to Advance iOS App Developer, Fully Updated Module Dedicated to Swift & SwiftUI."
@@ -45,8 +45,8 @@
         "fee": 19
     },
     {
-        "id": "c4",
-        "title": "Android App Development with Kotlin | Beginner to Advanced",
+        "id": 4,
+        "title": "Android App Development with Kotlin",
         "img_url": "https://i0.wp.com/itphobia.com/wp-content/uploads/2021/09/Android-App-Development-Tools-1.jpg?fit=730%2C380&ssl=1",
         "details": {
             "description": "In this course, you will discover the power of Android app development, and obtain the skills to dramatically increase your career prospects as a software developer. You’ll also have a head start over other developers using obsolete tools and earlier versions of Android. Android is continually being updated and you'll learn how to target but users of current versions of Android and older versions as well.With this course, you get the best of both worlds. You’re taught to write code for Android that works with the current version and older versions of Android by using the AppCompat library. That way, the apps you build will work with more versions of Android, giving you access to a wider audience of users. Starting is easy because no previous programming experience is needed. NONE! If you do have it, great. Or maybe you just want to brush up on your Android development skills, and that’s fantastic too. The course is presented using a combination of video, slides and diagrams, all designed to teach you everything you need to know.",
@@ -60,7 +60,7 @@
         "fee": 16
     },
     {
-        "id": "c5",
+        "id": 5,
         "title": "SEO for Beginners: Rank in Google with SEO",
         "img_url": "https://thefridgeagency.com/wp-content/uploads/sites/3/2017/06/5_14_SEO_HightLevelPerspective_1000px.jpg",
         "details": {
@@ -75,9 +75,9 @@
         "fee": 15
     },
     {
-        "id": "c6",
+        "id": 6,
         "title": "Become a Professional Graphic Designer",
-        "img_url": "https://www.totaljobs.com/advice/wp-content/uploads/graphic-designer-job-description-1024x576.jpg",
+        "img_url": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/10/23170637/Graphic-Design-Courses.jpg",
         "details": {
             "description": "This course is aimed at aspiring graphic designers, web designers and digital artists who wish to develop a skill set needed to become a professional graphic designer. Suitable for both complete beginners and those who already have some knowledge of the industry; this course will prepare you for a career as a graphics designer through familiarising you with the concepts, principles and – most importantly – the software you'll need to know. You'll learn everything from working with layers and selections in Photoshop, to formatting text and menus in Dreamweaver, to using pathfinders and special effects in Illustrator. As well as equipping you with a valuable skill set, you will also learn how to get your foot in the door of the graphic design world, from how to land your first job, to finding continued inspiration, to the ins and outs of joining the graphics design community. On completion of this course, you will have the strong foundation needed to get started in the world of graphic design, along with the skills needed to start working professionally straight away.",
             "course_for": "Aspiring graphic designers, Web designers, Artists."
