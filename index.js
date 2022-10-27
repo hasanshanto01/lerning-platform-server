@@ -5,7 +5,7 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const courses = require('https://learning-platform-server-side-delta.vercel.app/courses');
+const courses = require('./data/courses.json');
 
 app.get('/', (req, res) => {
     res.send('Skill Hub server running...');
